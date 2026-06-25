@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Vandan17-coder/Leetcode-Solutions/tree/master/0162-find-peak-element) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Vandan17-coder/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
